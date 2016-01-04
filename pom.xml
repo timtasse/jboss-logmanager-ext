@@ -46,6 +46,12 @@
         <maven.compiler.target>1.7</maven.compiler.target>
     </properties>
 
+    <scm>
+        <url>https://github.com/timtasse/jboss-logmanager-ext</url>
+        <connection>scm:git:git://github.com/timtasse/jboss-logmanager-ext.git</connection>
+        <developerConnection>scm:git:git@github.com:timtasse/jboss-logmanager-ext.git</developerConnection>
+    </scm>
+
     <dependencies>
         <!-- required dependencies -->
         <dependency>
